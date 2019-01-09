@@ -1,2 +1,2 @@
-# ConsoleApplication1
+# CPU Info Finder
 just a playaround that gets cpu info
